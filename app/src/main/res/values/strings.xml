@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multiple Pages</string>
+    <string name="Page1">Page 1</string>
+    <string name="Page2">Page 2</string>
+</resources>
